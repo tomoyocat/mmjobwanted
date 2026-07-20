@@ -408,7 +408,6 @@ function Portfolio() {
         {/* 标题区：始终可见 */}
         <header className="mb-6 pb-4">
           <h1 className="text-3xl font-light text-gray-900">作品集</h1>
-          <p className="mt-2 text-sm text-gray-400">部分活动玩法设计案例</p>
           {/* 2026.07 更新：标题区说明小字 */}
           <p className="mt-1 text-xs text-gray-400">
             以下为 2020-2026 年部分活动案例
