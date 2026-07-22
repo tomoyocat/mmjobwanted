@@ -50,7 +50,7 @@ function SplashScreen({ onFinish }) {
         className="relative z-10 text-5xl font-light tracking-wider text-white"
         {...fadeIn}
       >
-        毛毛
+        曹茂鑫
       </motion.h1>
 
       <motion.p

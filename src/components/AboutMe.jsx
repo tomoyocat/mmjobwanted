@@ -302,7 +302,7 @@ function AboutMe() {
                 aria-hidden="true"
               />
               <h1 className="text-4xl font-light tracking-wide text-gray-900 sm:text-5xl">
-                毛毛
+                曹茂鑫
               </h1>
             </div>
             <p className="mt-3 text-base font-light text-gray-500 sm:text-lg">
